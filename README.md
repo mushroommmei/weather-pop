@@ -16,7 +16,7 @@ WeatherPop is a lightweight Java desktop app that:
 
 ## System Diagram
 
-![Screenshot20250714at41013PM.png](assets/Screenshot 2025-07-14 at 4.10.13 PM.png)
+![App Screenshot](assets/screenshot.png)
 
 ## Installation & Usage (End-Users)
 
