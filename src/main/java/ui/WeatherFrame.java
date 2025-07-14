@@ -16,7 +16,7 @@ public class WeatherFrame extends JFrame {
 
     public WeatherFrame() {
 
-        setTitle("Weather Overground");
+        setTitle("Weather-Pop");
         setSize(400, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
@@ -34,7 +34,7 @@ public class WeatherFrame extends JFrame {
         errorLabel = new JLabel("");
         errorLabel.setForeground(Color.RED);
 
-        JLabel titleLabel = new JLabel("Weather Overground");
+        JLabel titleLabel = new JLabel("Weather-Pop");
         titleLabel.setFont(new Font("Arial", Font.BOLD, 20));
         titleLabel.setAlignmentX(Component.CENTER_ALIGNMENT);
 
